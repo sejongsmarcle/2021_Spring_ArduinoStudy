@@ -4,7 +4,8 @@
 
 제 개인 CV homepage는 아래와 같습니다!
 
-[sdh.smarcle.dev](https://sim-dong-hyun.github.io/, "https://sim-dong-hyun.github.io/")
+<https://sdh.smarcle.dev>
+
 
 언제든지 궁금한 점 있다면 연락주세요 :)
 
