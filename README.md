@@ -45,5 +45,5 @@
 
 - [마크다운 .md 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 - [코코아팹 학습가이드](https://kocoafab.cc/product/studyguide)
-- [2020_SMARCLE_아두이노_멘토링강좌]()
+- [2020_SMARCLE_아두이노_멘토링강좌](https://youtube.com/playlist?list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR)
 - [Git 동영상 강의](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
