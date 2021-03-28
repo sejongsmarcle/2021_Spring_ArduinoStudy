@@ -16,4 +16,4 @@
 아직 관심분야는 잘 깨닫지 못했는데 동아리 활동을 하면서 찾아나가보도록 하겠습니다!!   
 끝으로 제가 좋아하는 수달 사진 하나 첨부하고 끝내도록 하겠습니다ㅎㅎ   
 
-![otter](https://user-images.githubusercontent.com/81348844/112485415-43755e00-8d
+![otter](https://user-images.githubusercontent.com/81348844/112752744-69457180-900f-11eb-9ef2-f0060a4b14ca.jpg)
