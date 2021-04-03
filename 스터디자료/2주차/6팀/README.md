@@ -17,7 +17,7 @@
 
 이런저런 생각을 하며 아두이노를 들고 집으로 돌아왔다.
 
-## ** **
+## **🔎 키트 개봉**
 
 처음에 키트를 개봉했을 때 설렘 반 두려움 반이었다. 고등학생 때 써봤던 기본적인 키트 구성보다는 좀 더 다양한 것 같았다.
 ![image](https://user-images.githubusercontent.com/78032658/113464999-d4f26900-946b-11eb-8514-e495b8789e5f.png)
@@ -25,11 +25,11 @@
 
 작년에 스마클에서 제작했던 영상을 올려주셔서 우선은 영상에 있는 프로젝트들을 따라해 볼 생각이다.
 
-## **실습**
+## **🔧 실습**
 
 * 2강: [아두이노 보드 주요 구성요소 소개](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/2%EA%B0%95%20%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
 * 3강: [LED 사용해보기](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/3%EA%B0%95%20LED%EC%99%80%20%EB%B8%8C%EB%A0%88%EB%93%9C%EB%B3%B4%EB%93%9C)
 * 4강: [LED를 이용 3색등 제작하기](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/4%EA%B0%95%20Resistance%20and%20LED)
 
-## **느낀 점**
+## **🙋 느낀 점**
 * 고등학생 때 온습도센서와 미세먼지 측정 센서를 이용해 본 경험이 있는데 앞으로는 더욱 다양한 센서를 이용해보고 싶다. 
