@@ -31,8 +31,8 @@
 |주차|날짜|내용,자료|미션|
 |:---:|:---:|:---:|:---:|
 0주차|21.03.18(예정)|진행 방식 설명|x|
-1주차|21.03.22 ~ 21.03.28|[1주차 자료]()|[1주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|
-2주차|21.03.29 ~ 21.04.04|[2주차 자료]()|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|
+1주차|21.03.22 ~ 21.03.28|[1주차 자료](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)|[1주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|
+2주차|21.03.29 ~ 21.04.04|[2주차 자료](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|
 3주차|21.04.05 ~ 21.04.11|[3주차 자료]()|[3주차 미션]()|
 4주차|21.04.26 ~ 21.05.02|[4주차 자료]()|[4주차 미션]()|
 5주차|21.05.03 ~ 21.05.09|[5주차 자료]()|[5주차 미션]()|
@@ -46,4 +46,5 @@
 - [마크다운 .md 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 - [코코아팹 학습가이드](https://kocoafab.cc/product/studyguide)
 - [2020_SMARCLE_아두이노_멘토링강좌](https://youtube.com/playlist?list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR)
+- [2020_SMARCLE_아두이노_멘토링강좌 교안](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/blob/main/2020_SMARCLE%EA%B3%BC_%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94_%EA%BF%88%EB%82%98%EB%AC%B4_%EC%BD%94%EB%94%A9%EA%B5%90%EC%8B%A4.pdf)
 - [Git 동영상 강의](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81)
