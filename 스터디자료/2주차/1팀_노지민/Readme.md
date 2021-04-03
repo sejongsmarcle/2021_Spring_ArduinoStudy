@@ -28,7 +28,7 @@
 #### 드디어 오렌지 보드를 노트북에 연결하고.. 설레는 마음으로 업로드 해주면....
 
 ### 쨘!
-https://user-images.githubusercontent.com/71576768/113472110-af7d5380-949b-11eb-9c97-5a87ede80d37.mp4
+https://drive.google.com/file/d/1xaMsqgBpXk-TKbwd4Wme4xnlTOocO6CJ/view?usp=sharing
 #### 이렇게!! 뻔쩍뻔쩍 한다 ㅎㅎㅎ
 #### 이 작은 불빛에도 행복을 느끼는 나란 사람... 참 단순하다 ㅋㅋㅋㅋ
 
@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/71576768/113472110-af7d5380-949b-11eb-
 #### 그리고 오렌지 보드와 노트북을 연결해주고 업로드 하면....!!
 
 ## 쨘!!!!! 대망의 신호등 완성!
-https://user-images.githubusercontent.com/71576768/113472336-8e1d6700-949d-11eb-8806-767647bb3f9a.mp4
+https://drive.google.com/file/d/1zenAEFUD3h2TqxO2Tt_CRrnibQ1SEd3e/view?usp=sharing
 #### 뿌듯뿌듯 ㅎㅎㅎ 이정도면 아두이노 처음이어도 잘 마무리 한 것 같다ㅎㅎㅎ
 
 ### 그럼... 다음주에도 아.린이의 도전은 계속된다....!
