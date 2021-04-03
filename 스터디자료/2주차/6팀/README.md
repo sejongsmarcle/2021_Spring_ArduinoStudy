@@ -33,7 +33,7 @@
 
 * 2강: [아두이노 보드 주요 구성요소 소개](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/2%EA%B0%95%20%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
 * 3강: [LED 사용해보기](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/3%EA%B0%95%20LED%EC%99%80%20%EB%B8%8C%EB%A0%88%EB%93%9C%EB%B3%B4%EB%93%9C)
-* 4강: [LED를 이용한 3색 등 제작하기](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/4%EA%B0%95%20Resistance%20and%20LED)
+* 4강: [LED를 이용한 3색 신호등 제작하기](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/4%EA%B0%95%20Resistance%20and%20LED)
 
 ## **🙋 느낀 점**
 * 고등학생 때 온습도센서와 미세먼지 측정 센서를 이용해 본 경험이 있는데 앞으로는 더욱 다양한 센서를 이용해보고 싶다. 
