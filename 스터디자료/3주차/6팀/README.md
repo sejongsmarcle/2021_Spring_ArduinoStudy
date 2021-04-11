@@ -5,7 +5,7 @@
 
 
 ## **🔧 실습**
-* 8강: [부저를 이용해 노래 틀기](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/8%EA%B0%95%20%20%EB%B6%80%EC%A0%80)
-* 9강: [초음파 센서와 후방 감지기](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/9%EA%B0%95%20%EC%B4%88%EC%9D%8C%ED%8C%8C%20%EC%84%BC%EC%84%9C%EC%99%80%20%ED%9B%84%EB%B0%A9%20%EA%B0%90%EC%A7%80%EA%B8%B0)
+* 8강: [부저를 이용해 노래 틀기🎶🎵](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/8%EA%B0%95%20%20%EB%B6%80%EC%A0%80)
+* 9강: [초음파 센서와 후방 감지기🚨](https://github.com/Jiyajiwon/SMARCLE/tree/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/9%EA%B0%95%20%EC%B4%88%EC%9D%8C%ED%8C%8C%20%EC%84%BC%EC%84%9C%EC%99%80%20%ED%9B%84%EB%B0%A9%20%EA%B0%90%EC%A7%80%EA%B8%B0)
 
 위의 링크의 게시글에서 미션 활동한 내용을 자세히 확인할 수 있다.
