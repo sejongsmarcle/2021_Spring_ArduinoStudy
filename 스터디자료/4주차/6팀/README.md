@@ -1,0 +1,22 @@
+4주차 미션 지각해서 죄송합니다! 🙇‍♀️ 😢
+
+## **🔧 실습**
+* 10강: [서보모터 이용해보기](https://github.com/Jiyajiwon/SMARCLE/blob/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/10%EA%B0%95%20%EC%84%9C%EB%B3%B4%20%EB%AA%A8%ED%84%B0/%EC%84%9C%EB%B3%B4%EB%AA%A8%ED%84%B0%20%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
+* 10강: [서보 모터를 이용해 교통경찰관 만들기(60%)](https://github.com/Jiyajiwon/SMARCLE/blob/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/10%EA%B0%95%20%EC%84%9C%EB%B3%B4%20%EB%AA%A8%ED%84%B0/%EC%84%9C%EB%B3%B4%20%EB%AA%A8%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EA%B5%90%ED%86%B5%EA%B2%BD%EC%B0%B0%EA%B4%80%20%EB%A7%8C%EB%93%A4%EA%B8%B0(60%25).md)
+
+위의 링크의 게시글에서 미션 활동한 내용을 자세히 확인할 수 있다.   
+
+앞으로 차츰차츰 코드에서 사용된 함수에 대해 정리할 예정이다.    
+
+2학년 때 기초설계에서 이에 대해 본격적으로 배우는 줄 알았는데      
+선배 말씀 들어보니까 그것도 아닌 것 같아서 지금부터 조금씩 어떨 때 사용하는 것인지 구경이나 해보려고 한다.   
+응용하고 싶을 때 유용할 것이라고 기대한다.     
+
+[📌사용해본 함수 모음📌](https://github.com/Jiyajiwon/SMARCLE/blob/main/2021_Spring_ArduinoStudy/Mentoring%20Lecture%20Practice/%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B8%20%ED%95%A8%EC%88%98%20%EB%AA%A8%EC%9D%8C.md)에 정리해 둘 것이고     
+이는 모두 [아두이노 참조](https://www.arduino.cc/reference/ko/)에서 가져오는 것이니 필요한 분은 참고하시면 좋을 것 같다.
+
+
+서보모터의 쓰임이 재미있어 보여서 새로운 시도를 해보았는데 실행이 성공적이지 못했다.    
+여러 개의 loop를 사용하지 못할 거라고는 생각을 못해서 동시 진행이 안 됐다.    
+
+🆘 두 번째 링크의 게시글에서 발생한 문제에 대한 해결 방법을 아는 분이 계시다면 조언을 부탁드립니다. ㅠㅠ 🆘
