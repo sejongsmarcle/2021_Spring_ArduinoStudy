@@ -31,7 +31,9 @@
 그래도 귀여운 덩어리들 보면서 나름 즐기면서 했다.       
 아래 사진은 오늘 주운 사진 중 최애들 ...    
 <img src ="https://user-images.githubusercontent.com/78032658/119396133-703ae880-bd0f-11eb-8e66-eb41013f62bf.png" width="40%"> <img src="https://user-images.githubusercontent.com/78032658/119396430-ca3bae00-bd0f-11eb-9aba-7718c403c9ea.png" width="40%">
-
+> 왼쪽이 스피츠일까요 오른쪽이 스피츠일까요~ 👀
+>
+> 왼: 사모예드, 오: 스피츠 
 
 3번은 요즘 공간마케팅 교양 팀플 때문에 로드뷰로 군자로 일대 간판 구경을 많이 했더니 저런 생각이 났다.     
 실제로 만들면 재밌을 거 같은데 저기에 얼마만큼의 시간이 들어갈지 두려워서 시작을 못 했다.     
